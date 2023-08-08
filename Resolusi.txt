@@ -3,4 +3,6 @@ Resolusi
 - Codding more often 
 - Being a front end dev
 
+
 Disini saya akan mencoba membuat sebuah commit baru di branch first
+Ternyata emng bener disini gaberubah hehe
